@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+
+#root{
+  background-color: #AB2706;
+}
+
+.content-wrapper h1{
+  line-height: 104px;
+}
+
+@media (min-width: 769px) {
+  #root{
+    padding: 64px 0 0 0;
+  }
+}
